@@ -1,3 +1,16 @@
+test
+
+
+
+
+
+
+
+
+
+
+
+
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
 # Last updated: 2017-05-27
@@ -15,7 +28,7 @@
 # Localhost (DO NOT REMOVE) End
 
 # Amazon AWS Start
-54.239.31.69	aws.amazon.com
+54.239.31.69	aws.amazon.comsdddddddddddddddddddddddddddddddddddddddds
 54.239.30.25	console.aws.amazon.com
 54.239.96.90	ap-northeast-1.console.aws.amazon.com
 54.240.226.81	ap-southeast-1.console.aws.amazon.com
